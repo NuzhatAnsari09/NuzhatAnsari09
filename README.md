@@ -23,7 +23,6 @@
 
 
 
-</hr>
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a BSC CS Undergrad student at TCSC, Mumbai.
