@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hey 👋, I'm Ansari Nuzhta Khatoon</h2>
+<h2 title="hehehe"> Hey 👋, I'm Ansari Nuzhat Khatoon</h2>
 
 <a href="#">
   <img align="left" alt="Nuzhats LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
