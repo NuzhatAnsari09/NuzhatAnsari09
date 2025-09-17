@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hey 👋, I'm Ansari Nuzhat Khatoon</h2>
+<h2 title="hehehe"> Hey 👋, I'm Nuzhat Khatoon</h2>
 
 <a href="#">
   <img align="left" alt="Nuzhats LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
@@ -21,23 +21,27 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" style="max-width:100%; height:auto;" />
 
+About Me!
 
-**About Me!**
+👩‍💻 I have completed my B.Sc. in Computer Science.
 
-- 👨🏽‍💻 I’m currently a BSC CS Undergrad student at TCSC, Mumbai.
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [nuzhatk121@gmail.com](mailto:nuzhatk121@gmail.com).
+🌱 I’m currently working as a Web Developer, creating responsive and user-friendly websites.
 
+🎨 My expertise includes HTML, CSS, JavaScript, Bootstrap, and graphic design.
+
+💬 Ask me about web development, UI/UX design, or building portfolios—I’d love to help!
+
+📫 Reach me at nuzhatk602@gmail.com
+.
 
 
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
+<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> javascript
+<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> CSS
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
+<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> HTML
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
